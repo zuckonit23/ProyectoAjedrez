@@ -1,0 +1,14 @@
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\controller\UsuarioController.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\dao\UsuarioDAOImpl.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\exceptions\UsuarioExistenteException.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\view\AlumnoView.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\controller\ProfesorController.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\model\Profesor.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\model\Alumno.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\model\Usuario.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\exceptions\UsuarioNoEncontradoException.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\view\ProfesorView.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\exceptions\EntradaInvalidaException.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\dao\ConexionBD.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\dao\UsuarioDAO.java
+C:\Users\Juan Miguel\Documents\NetBeansProjects\AcademiaAjedrez\src\main\java\com\academiaajedrez\view\MainView.java

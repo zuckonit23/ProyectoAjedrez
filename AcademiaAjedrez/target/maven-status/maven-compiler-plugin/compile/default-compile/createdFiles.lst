@@ -1,0 +1,14 @@
+com\academiaajedrez\model\Alumno.class
+com\academiaajedrez\model\Profesor.class
+com\academiaajedrez\view\ProfesorView.class
+com\academiaajedrez\view\AlumnoView.class
+com\academiaajedrez\controller\ProfesorController.class
+com\academiaajedrez\model\Usuario.class
+com\academiaajedrez\dao\UsuarioDAO.class
+com\academiaajedrez\dao\UsuarioDAOImpl.class
+com\academiaajedrez\dao\ConexionBD.class
+com\academiaajedrez\exceptions\UsuarioExistenteException.class
+com\academiaajedrez\exceptions\UsuarioNoEncontradoException.class
+com\academiaajedrez\controller\UsuarioController.class
+com\academiaajedrez\view\MainView.class
+com\academiaajedrez\exceptions\EntradaInvalidaException.class
